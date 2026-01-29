@@ -4,7 +4,7 @@
 
 This repository contains the **MATLAB code and datasets** used in the paper:
 
-**Linearized Maximum Rank Correlation Estimation When Covariates Are Functional**  
+>**Linearized Maximum Rank Correlation Estimation When Covariates are Functional**  
 **Authors:** Wenchao Xu, Xinyu Zhang, and Hua Liang  
 **Journal:** *Journal of Multivariate Analysis* (2024)  
 **Volume:** 202, Article 105301  
